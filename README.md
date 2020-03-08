@@ -16,7 +16,7 @@
 ## Secondo
 
 1. [Compact schemes](Compact-Schemes.ipynb)
-2. [Mass-Damper-Spring Oscillaotr](Mass-Dmaper-Spring-Oscillator.ipnb)
+2. [Mass-Damper-Spring Oscillator](Mass-Damper-Spring-Oscillator.ipnb)
 
 ## Contorno
 
