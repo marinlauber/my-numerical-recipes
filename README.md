@@ -4,7 +4,7 @@
 
 ## Antipasto
 1. [Lanczos Kernel Interpolation](Lanczos-Kernel-Interpolation.ipynb)
-2. [Radial Basis Functions](Radial-Basis-function.ipynb)
+2. [Radial Basis Functions](Radial-Basis-Functions.ipynb)
 3. [Differencing in Python](Differencing-in-Python.ipynb)
 
 ## Primo
